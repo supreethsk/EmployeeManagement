@@ -17,4 +17,3 @@ For the Designed Project Create a Packages called Model, Util, Dao, Service, Con
 
 Create the JSP in Web Content.
 
-Run index.jsp in eclispe or navigate to http://localhost:8080/EmployeeData/index.jsp
